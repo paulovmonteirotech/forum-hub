@@ -1,0 +1,10 @@
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\config\SecurityConfig.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\controller\AuthController.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\controller\AuthRequest.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\controller\TopicoController.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\filter\JWTAuthenticationFilter.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\ForumhubApplication.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\model\Topico.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\repository\TopicoRepository.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\service\TokenService.java
+D:\Java\Projetos\forumhub\src\main\java\com\example\forumhub\service\TopicoService.java
