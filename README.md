@@ -40,9 +40,9 @@ Configuração do Projeto
 Abra o arquivo src/main/resources/application.properties e configure as seguintes propriedades:
 properties
 Copy code
-spring.datasource.url=jdbc:mysql://127.0.0.1:3306/seu_banco_de_dados?useSSL=false&serverTimezone=UTC
-spring.datasource.username=PAULO_MONTEIRO
-spring.datasource.password=Lara@ivone42
+spring.datasource.url=jdbc:mysql://xxxxxxxxx/seu_banco_de_dados?useSSL=false&serverTimezone=UTC
+spring.datasource.username=seu uusuario 
+spring.datasource.password=sua senha
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 jwt.secret=SuaChaveSecretaSuperSegura
