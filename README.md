@@ -29,7 +29,7 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de prosseguir:
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/forumhub.git
+   git clone https://github.com/paulovmonteirotech/forum-hub
    cd forumhub
 Configuração do Banco de Dados
 
